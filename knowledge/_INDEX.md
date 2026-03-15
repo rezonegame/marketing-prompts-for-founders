@@ -24,6 +24,16 @@
 | 18 | cro | Conversion rate optimization | `/marketing:cro` |
 | 19 | growth-tactics | Misc growth tactics, first 1000 users | `/marketing:growth` |
 
+## Review & Optimize Commands
+
+These commands don't have dedicated knowledge files — they pull from multiple knowledge files to review, audit, or create content:
+
+| Command | What It Does | Knowledge Used |
+|---|---|---|
+| `/marketing:review` | Stress-test any artifact as your target customer | 03, 04, 18 |
+| `/marketing:audit` | Audit a live page for SEO + messaging + conversion | 04, 07, 18 |
+| `/marketing:write` | Write a blog post, HN post, tweet thread, LinkedIn post | 13 |
+
 ## Quick Start
 
 Not sure where to start? Run `/marketing:journey` — it asks where you are and tells you what to do next.

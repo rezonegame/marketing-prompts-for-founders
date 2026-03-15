@@ -88,6 +88,15 @@ Then `/marketing:outreach` asks about your product and generates 3 cold email te
 | `/marketing:ads` | Paid ads — platform, budget, campaign structure |
 | `/marketing:email` | Onboarding sequences, lifecycle emails, retention |
 
+### Review & Optimize
+
+| Command | What It Does |
+|---|---|
+| `/marketing:review` | Role-play as your target customer to stress-test any artifact |
+| `/marketing:audit` | Audit a live page for SEO, messaging, and conversion issues |
+| `/marketing:write` | Write a blog post, Show HN post, Twitter thread, or LinkedIn post |
+| `/marketing:cro` | Conversion rate optimization — CTAs, signup flow |
+
 ### Advanced Channels
 
 | Command | What It Does |
@@ -95,7 +104,6 @@ Then `/marketing:outreach` asks about your product and generates 3 cold email te
 | `/marketing:influencer` | Find and partner with creators |
 | `/marketing:affiliates` | Set up affiliate and referral programs |
 | `/marketing:free-tools` | Build free tools that drive traffic |
-| `/marketing:cro` | Conversion rate optimization — CTAs, signup flow |
 | `/marketing:growth` | Stage-specific growth tactics and weekly plan |
 
 ## How It Works

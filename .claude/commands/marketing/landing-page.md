@@ -30,7 +30,18 @@ Read `knowledge/04-landing-pages-messaging.md` for structure and best practices.
 Generate REAL COPY for each section in order:
 
 ### Section 1: Hero
-- Headline (max 8 words, problem-focused or solution-focused)
+
+Generate **5 headline options** using different rhetorical techniques, then recommend the strongest:
+
+1. **Direct benefit**: States the outcome plainly ("Ship faster without breaking prod")
+2. **Problem-first**: Names the pain ("Stop debugging auth at 2am")
+3. **Contrast/chiasmus**: Juxtaposes old vs. new ("Less configuring, more shipping")
+4. **Specific proof**: Leads with a number or result ("Deploy in 3 minutes, not 3 hours")
+5. **Audience-first**: Names who it's for ("The API developers actually want to use")
+
+Each headline: max 8 words. Present all 5 and recommend the best one with reasoning.
+
+Then generate:
 - Subheadline (max 10 words, clarify who it's for or what they get)
 - CTA button text (action-verb focused)
 
@@ -80,7 +91,7 @@ Reference `knowledge/05-pricing.md` for pricing strategy and positioning.
 Provide:
 1. **Summary**: "Here's your complete homepage copy + pricing page structure, ready to drop into your design."
 2. **Next action**: "Copy this into your web builder or design tool, then test with your ICP."
-3. **Next command**: "→ `/marketing:pricing` to deep-dive pricing strategy, or → `/marketing:launch` to plan your first users."
+3. **Next command**: "→ `/marketing:review` to stress-test this copy from your customer's perspective, → `/marketing:pricing` to deep-dive pricing strategy, or → `/marketing:launch` to plan your first users."
 
 ## Rules
 

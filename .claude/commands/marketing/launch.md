@@ -98,12 +98,38 @@ Key points:
 
 Reference `knowledge/06-launch.md` for platform details and positioning per product type.
 
-## Step 6: Summary & Next Steps
+## Step 6: Pre-Flight Check
+
+Before posting, review the Show HN post and Product Hunt maker comment as a skeptical reader. Check for:
+
+**Substance test:**
+- Does every claim have a specific detail backing it? ("Built with Rust for speed" > "Fast")
+- Is there a concrete technical insight, or just a feature list?
+- Would a 15-year HN veteran call this shallow? If yes, add depth.
+
+**Self-promotion test:**
+- Is the post about the problem and approach, or just "look what I built"?
+- Count product mentions — more than 3 in a Show HN post is too many
+- Is the tone inviting feedback or pushing conversions?
+
+**Skeptic triggers:**
+- Any superlatives without proof? ("fastest," "best," "only") — remove or quantify
+- Any buzzwords? ("AI-powered," "revolutionary," "game-changing") — replace with specifics
+- Any vague claims? ("saves time," "improves workflow") — add numbers or examples
+
+**Missing elements:**
+- Is there a genuine request for feedback on a specific aspect?
+- Are limitations or known gaps acknowledged? (honesty builds credibility)
+- Is the technical approach explained, not just the outcome?
+
+Rewrite any sections that fail these checks. Present the improved version side-by-side with the original.
+
+## Step 7: Summary & Next Steps
 
 Provide:
-1. **Summary**: "30-day pre-launch plan + Product Hunt tagline + Hacker News post + directory checklist, all ready to execute."
+1. **Summary**: "30-day pre-launch plan + Product Hunt tagline + Hacker News post + directory checklist, all stress-tested and ready to execute."
 2. **Next action**: "Start this week: finalize assets (screenshots, demo video). Commit to launch date."
-3. **Next command**: "→ `/marketing:social` to build social strategy parallel to launch, or → `/marketing:cro` to optimize landing page before launch day."
+3. **Next command**: "→ `/marketing:review` to stress-test your launch copy from your audience's perspective, or → `/marketing:social` to build social strategy parallel to launch."
 
 ## Rules
 

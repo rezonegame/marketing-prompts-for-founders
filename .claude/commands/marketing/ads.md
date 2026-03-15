@@ -183,7 +183,7 @@ Create **phase-based roadmap**:
 - Cost per lead if using trial vs. demo
 
 **Next Command:**
-"After 4 weeks of data, run `/marketing:cro` to optimize your landing page, or `/marketing:journey` to map where ads fit in your full growth strategy."
+"Run `/marketing:review` to stress-test your ad copy from your audience's perspective. After 4 weeks of data, run `/marketing:audit` on your landing page to find conversion leaks, or `/marketing:cro` for deeper optimization."
 
 ## Rules
 

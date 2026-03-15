@@ -128,7 +128,7 @@ These MUST exist (Visa/Mastercard card network rules require notifying users at 
 "Set up these sequences in your email provider (Mailchimp, Customer.io, Userlist, or HubSpot). Test with your next 10 signups. Track open rates (target 40%+ for Day 0), click rates (target 10%+), and activation rates (% completing first action)."
 
 **Next Command:**
-"Once you've optimized onboarding, run `/marketing:cro` to increase conversion rates, or `/marketing:content` to build a demand engine that feeds your email list."
+"Run `/marketing:review` to stress-test your emails from a new user's perspective before going live. Then `/marketing:cro` to increase conversion rates, or `/marketing:content` to build a demand engine that feeds your email list."
 
 ## Rules
 

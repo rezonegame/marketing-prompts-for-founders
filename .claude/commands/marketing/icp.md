@@ -226,4 +226,4 @@ You've defined:
 
 ## Next Command
 
-→ `/marketing:landing-page` — Now build a page that converts this positioning into signups.
+→ `/marketing:review` — Stress-test your positioning by role-playing as your target customer. Then → `/marketing:landing-page` to build a page that converts this positioning into signups.

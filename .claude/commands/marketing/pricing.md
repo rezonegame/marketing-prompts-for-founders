@@ -103,7 +103,7 @@ If yes: Provide pricing conversation script from knowledge file.
 Provide:
 1. **Summary**: "Your pricing model is [model]. 3 tiers at [price range]. Pricing page copy ready below."
 2. **Next action**: "Validate with 5-10 target customers; adjust if willingness-to-pay is significantly different."
-3. **Next command**: "→ `/marketing:cro` to optimize pricing page conversion, or → `/marketing:launch` to execute your go-to-market."
+3. **Next command**: "→ `/marketing:audit` to audit your live pricing page for conversion issues, → `/marketing:cro` to optimize the full signup flow, or → `/marketing:launch` to execute your go-to-market."
 
 ## Rules
 

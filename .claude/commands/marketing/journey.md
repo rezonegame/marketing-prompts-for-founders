@@ -71,7 +71,15 @@ Ask: **"Is your product B2B SaaS, developer tool, consumer app, or something els
 3. Run `/marketing:research` — talk to churned users
 4. Consider `/marketing:influencer` or `/marketing:affiliates` for new channels
 
-## Step 3: Give Context
+## Step 3: Mention the Feedback Loop
+
+After recommending channel commands, always mention the review commands that close the loop:
+
+- **After writing copy** (landing page, emails, outreach, ads): "Once you have drafts, run `/marketing:review` to stress-test them from your customer's perspective."
+- **After publishing a page** (landing page, pricing): "Once your page is live, run `/marketing:audit` to check SEO, messaging, and conversion issues."
+- **After planning content** (content, SEO, social): "When you're ready to write, run `/marketing:write` to draft a complete piece."
+
+## Step 4: Give Context
 
 After recommending, briefly explain WHY these are the right moves for their stage. Keep it to 2-3 sentences. Then ask: **"Which one do you want to start with?"**
 

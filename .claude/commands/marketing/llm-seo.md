@@ -70,7 +70,7 @@ Suggest **weekly quick wins**:
 Provide:
 1. **Summary** of AI visibility gaps, content roadmap, and distribution channels
 2. **Next action**: "Create your first definitive source piece (comparison page or use-case guide)"
-3. **Next command**: → `/marketing:seo` (compound with traditional SEO) or → `/marketing:content` (scale content production)
+3. **Next command**: → `/marketing:write` to draft your first definitive source piece, → `/marketing:audit` to check your existing pages for AEO gaps, or → `/marketing:seo` (compound with traditional SEO)
 
 ## Rules
 

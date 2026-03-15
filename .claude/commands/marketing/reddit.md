@@ -81,7 +81,7 @@ Create a template:
 Provide:
 1. **Summary** of target subreddits, content strategy, and engagement calendar
 2. **Next action**: "Spend Week 1-2 building account credibility (comments only), then publish your first value-first post"
-3. **Next command**: → `/marketing:social` (LinkedIn/Twitter presence) or → `/marketing:content` (scale to multi-channel)
+3. **Next command**: → `/marketing:write` to draft your Reddit posts and threads, → `/marketing:social` (LinkedIn/Twitter presence), or → `/marketing:content` (scale to multi-channel)
 
 ## Rules
 

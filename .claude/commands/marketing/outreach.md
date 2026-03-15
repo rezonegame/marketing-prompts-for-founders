@@ -107,7 +107,7 @@ Ask: **"What's your monthly budget for outreach infrastructure — under $300, $
 "Export these emails, pick 50 highly relevant prospects from LinkedIn Sales Navigator, and test the sequence. Track opens, replies, and demos booked. After 2 weeks, we'll analyze what's working and optimize."
 
 **Next Command:**
-"Once you've booked demos from cold outreach, run `/marketing:email` to design the onboarding sequence that converts trial users to paying customers."
+"Run `/marketing:review` to stress-test your emails from your prospect's perspective before sending. Once you've booked demos, run `/marketing:email` to design the onboarding sequence that converts trial users to paying customers."
 
 ## Rules
 

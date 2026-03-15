@@ -48,7 +48,7 @@ Ask: **"Do you have hundreds of data permutations (locations, companies, use cas
 Provide:
 1. **Summary** of keyword strategy, content plan, and structure
 2. **Next action**: "Pick your top 3 priority pages and write content briefs"
-3. **Next command**: → `/marketing:llm-seo` (make AI engines recommend you) or → `/marketing:content` (build the content calendar)
+3. **Next command**: → `/marketing:write` to draft your first SEO page, → `/marketing:audit` to check existing pages for SEO issues, or → `/marketing:llm-seo` (make AI engines recommend you)
 
 ## Rules
 

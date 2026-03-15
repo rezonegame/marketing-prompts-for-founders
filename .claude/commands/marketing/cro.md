@@ -229,4 +229,4 @@ You've designed a CRO audit with:
 
 ## Next Command
 
-→ `/marketing:pricing` — Once your conversion flow is optimized, audit your pricing to ensure it matches customer value perception and maximizes revenue.
+→ `/marketing:audit` — Run a full page audit (SEO + messaging + conversion) on your live URL. Or → `/marketing:pricing` to ensure pricing matches customer value perception.

@@ -77,7 +77,7 @@ Template:
 Provide:
 1. **Summary** of platform choice, profile optimization, and 10 post ideas
 2. **Next action**: "Optimize your profile using the checklist, then schedule your first 5 posts"
-3. **Next command**: → `/marketing:reddit` (build subreddit credibility) or → `/marketing:content` (scale content production)
+3. **Next command**: → `/marketing:write` to draft your first posts, → `/marketing:reddit` (build subreddit credibility), or → `/marketing:content` (scale content production)
 
 ## Rules
 

@@ -135,7 +135,7 @@ Say: "Newsletter is your safety net. Algorithms change, but email ownership is p
 "Pick your top 5 content ideas and publish 1-2 strong pieces over next 2 weeks. Focus on distribution as much as creation. Track: newsletter subscriber growth, backlinks acquired, and revenue attribution via 'How did you hear about us?' field."
 
 **Next Command:**
-"Once you're publishing consistently, run `/marketing:seo` to optimize for long-tail keywords, or `/marketing:social` to amplify distribution across platforms."
+"Ready to write? Run `/marketing:write` to draft your first piece from the list above. Then `/marketing:seo` to optimize for long-tail keywords, or `/marketing:social` to amplify distribution."
 
 ## Rules
 

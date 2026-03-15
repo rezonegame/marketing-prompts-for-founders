@@ -48,7 +48,7 @@ Create EXACTLY 3 cold email templates customized to their product:
 - No more than 5 sentences
 
 **Email 2: Value Drop** (Day 3)
-- Share relevant resource (case study, framework, benchmark)
+- Share a relevant resource — if you have case studies or benchmarks, use them. If not, share an industry insight, stat, or useful framework you can craft from scratch.
 - Ask thoughtful discovery question
 - New angle, don't repeat Email 1
 
@@ -107,7 +107,7 @@ Ask: **"What's your monthly budget for outreach infrastructure — under $300, $
 "Export these emails, pick 50 highly relevant prospects from LinkedIn Sales Navigator, and test the sequence. Track opens, replies, and demos booked. After 2 weeks, we'll analyze what's working and optimize."
 
 **Next Command:**
-"Run `/marketing:review` to stress-test your emails from your prospect's perspective before sending. Once you've booked demos, run `/marketing:email` to design the onboarding sequence that converts trial users to paying customers."
+"Run `/marketing:review` to stress-test your emails from your prospect's perspective before sending. Then `/marketing:launch` to plan your public launch in parallel. Once you've booked demos, run `/marketing:email` to design the onboarding sequence."
 
 ## Rules
 

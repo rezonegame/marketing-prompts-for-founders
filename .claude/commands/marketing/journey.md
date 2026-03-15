@@ -60,10 +60,11 @@ Ask: **"Is your product B2B SaaS, developer tool, consumer app, or something els
 3. Set up `/marketing:email` — don't lose the users you're getting
 
 ### F) 100+ users, scale growth
-1. Run `/marketing:content` — build a content engine
-2. Run `/marketing:seo` + `/marketing:llm-seo` — compound growth channels
-3. Consider `/marketing:ads` if you have budget ($3-5K/month minimum)
-4. Run `/marketing:cro` — optimize what you have before adding more traffic
+1. Run `/marketing:audit` — audit your existing page before adding traffic
+2. Run `/marketing:content` — build a content engine, then `/marketing:write` to draft pieces
+3. Run `/marketing:seo` + `/marketing:llm-seo` — compound growth channels
+4. Consider `/marketing:ads` if you have budget ($3-5K/month minimum)
+5. Run `/marketing:cro` — optimize what you have before adding more traffic
 
 ### G) Paying customers, optimize revenue
 1. Run `/marketing:pricing` — most founders underprice

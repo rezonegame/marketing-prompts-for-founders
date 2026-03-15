@@ -119,13 +119,22 @@ For each issue, provide:
 - **Why it matters**: Impact on SEO, messaging, or conversion
 - **Fix**: The exact change to make (rewritten copy, added element, technical fix)
 
-## Step 7: Next Steps
+## Summary
 
-> "Start with the Critical fixes — they'll have the biggest impact."
->
-> "After fixing, run `/marketing:review` to stress-test the updated copy from your customer's perspective."
->
-> "For deeper work on specific areas: `/marketing:seo` for keyword strategy, `/marketing:cro` for conversion optimization, `/marketing:landing-page` to rewrite copy from scratch."
+You've audited your live page across three dimensions:
+- SEO (meta, headings, keywords, schema, OG tags)
+- Messaging (hero clarity, problem→solution flow, social proof, tone)
+- Conversion (CTA hierarchy, friction points, missing elements)
+- Prioritized fix list (critical / important / nice to have)
+
+## Next Action
+
+**Fix the Critical issues this week** — they're actively losing visitors.
+
+## Next Command
+
+→ `/marketing:review` — stress-test the updated copy from your customer's perspective.
+→ `/marketing:seo` for keyword strategy, `/marketing:cro` for conversion optimization, or `/marketing:landing-page` to rewrite copy from scratch.
 
 ## Rules
 

@@ -122,9 +122,11 @@ Common friction points:
 
 ## Step 5: Design A/B Test Plan
 
-Ask: **"Are you ready to run 1-2 A/B tests next week?"**
+Ask: **"How much traffic does your site get per week?"**
 
-Create a test plan for top opportunity:
+If under 500 visitors/week: Skip formal A/B testing — you don't have enough traffic for statistical significance. Instead, make the change directly, measure for 2-4 weeks, and compare before/after directionally.
+
+If 500+ visitors/week: Create a test plan for top opportunity:
 
 **Test Option 1: Playground vs. Current CTA**
 

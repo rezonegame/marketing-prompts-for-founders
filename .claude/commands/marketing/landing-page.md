@@ -31,7 +31,7 @@ Generate REAL COPY for each section in order:
 
 ### Section 1: Hero
 
-Generate **5 headline options** using different rhetorical techniques, then recommend the strongest:
+If the founder ran `/marketing:icp` and already has headline options, use those as a starting point and refine. Otherwise, generate **5 headline options** using different rhetorical techniques, then recommend the strongest:
 
 1. **Direct benefit**: States the outcome plainly ("Ship faster without breaking prod")
 2. **Problem-first**: Names the pain ("Stop debugging auth at 2am")

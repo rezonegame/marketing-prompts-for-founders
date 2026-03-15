@@ -114,7 +114,27 @@ Ask: **"Which title do you prefer, or should I try a different angle?"**
 >
 > "After publishing, run `/marketing:review` to stress-test it from your audience's perspective before sharing widely."
 >
+> "If this is a blog post, run `/marketing:audit` on the published URL to check SEO basics (meta tags, headings, keywords)."
+>
 > "For a full content strategy, run `/marketing:content` to plan your next 10 pieces."
+
+## Summary
+
+You've written a complete, publishable piece:
+- Chose format (blog post, Show HN, thread, LinkedIn) based on topic and audience
+- Generated the full draft with proper structure and voice
+- Ran self-review pass (marketing-speak, specificity, substance, opening)
+- Provided 3 title variations
+
+## Next Action
+
+**Publish today.** Perfection is the enemy of shipping.
+
+## Next Command
+
+→ `/marketing:review` — stress-test the piece from your audience's perspective before sharing widely.
+→ `/marketing:audit` — if it's a blog post, check the published page for SEO basics.
+→ `/marketing:content` — plan your next 10 pieces.
 
 ## Rules
 

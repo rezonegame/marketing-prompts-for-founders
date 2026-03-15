@@ -96,7 +96,28 @@ For each fix:
 
 ## Step 6: Next Steps
 
-> "Make these 3 fixes, then run `/marketing:review` again to validate. Or run `/marketing:audit` on your live page for a technical review."
+> "Make these 3 fixes, then run `/marketing:review` again to validate."
+>
+> If your page is live: "Run `/marketing:audit` for a technical SEO + conversion review."
+> If you're pre-launch: "Run `/marketing:launch` to plan your public launch next."
+
+## Summary
+
+You've stress-tested your marketing artifact from your target customer's perspective:
+- Built a detailed persona (with dev sub-personas if applicable)
+- Ran a 5-second first impression test
+- Identified friction points, unanswered questions, and credibility gaps
+- Delivered top 3 fixes with actual rewrites
+
+## Next Action
+
+**Apply the top 3 fixes now**, then run `/marketing:review` again to validate the improved version.
+
+## Next Command
+
+If your page is live → `/marketing:audit` for SEO + messaging + conversion review.
+If you're pre-launch → `/marketing:launch` to plan your go-to-market.
+If you need new copy → `/marketing:landing-page` or `/marketing:write`.
 
 ## Rules
 

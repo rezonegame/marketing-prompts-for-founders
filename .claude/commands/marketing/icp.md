@@ -17,7 +17,8 @@ Ask ONE question:
 
 Then ask:
 
-> **If you had to pick your TOP 5 happiest customers or user segments, what do they have in common?** (e.g., "They all work in marketing teams, use Slack heavily, manage 5+ projects")
+> **If you have users: who are your TOP 5 happiest, and what do they have in common?** (e.g., "They all work in marketing teams, use Slack heavily, manage 5+ projects")
+> **If you're pre-launch: who do you THINK would benefit most?** (We'll validate this later)
 
 Then ask:
 

@@ -7,7 +7,6 @@ Marketing toolkit for solo technical SaaS founders. Claude Code skills, commands
 - `knowledge/` — 19 canonical marketing knowledge files (deduplicated from 300+ sources)
 - `.claude/skills/marketing.md` — core skill loaded by all `/marketing:*` commands
 - `.claude/commands/marketing/` — 20 interactive commands + journey orchestrator
-- `raw/` — original extractions (reference only, not used at runtime)
 
 ## Key Principles
 - Every command produces ARTIFACTS, not lectures

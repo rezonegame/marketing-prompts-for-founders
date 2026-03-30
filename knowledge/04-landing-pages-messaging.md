@@ -25,11 +25,13 @@ Every high-converting SaaS homepage contains these sections in order:
 
 ### Best Practices
 
+- **Frame the gap as a scene, not a feature.** "Your Claudes talking to each other" beats "agent coordination layer." Anthropomorphization creates emotional resonance that abstract descriptions never will. Describe a moment the user recognizes, not a capability they must evaluate. This is the difference between 27 stars and 1,453 (claude-peers-mcp case study).
 - **Hero lean rule**: Excessive copy reduces conversions; keep it scannable
 - **Social proof specificity**: "Top GTM teams love X" outperforms "Companies love us"
 - **Proof hierarchy**: Product screenshots > illustrations; authentic testimonials > stock photos
 - **Layout simplicity**: Scannable, linear layouts convert better than complex animations, carousels, or jarring UX
 - **Content-first design**: Build messaging framework before designing pixels
+- **One-liner = tweet = README header = elevator pitch.** Write your hero as if it's the only sentence anyone will ever read about your product. "Let your Claude Code instances find each other and talk" works across all three contexts. Most SaaS homepages fail all three.
 - **Mobile-first responsive**: Tablet/laptop-first viewport (350px+ min width)
 
 ## Pricing Page

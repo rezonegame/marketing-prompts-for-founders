@@ -248,7 +248,7 @@ Questions?
 
 ## Anti-Patterns
 
-- **Launching too polished.** Ship iteratively; "founders often launch too late." Rough edges signal authenticity.
+- **Launching too polished.** Ship iteratively; "founders often launch too late." Rough edges signal authenticity. claude-peers-mcp got 1,453 stars with 28 KB and 5 commits. Minimalism reduces the trust gap between what someone reads and what they experience — if a visitor can verify your claim in 3 minutes, they convert. If they need 6 dependencies and docs, they bookmark and forget.
 - **Fake voting schemes or upvoting rings.** Triggers spam filters and can result in shadow bans or deranking.
 - **Launch parties with coordinated voting.** Recent PH algorithm changes penalize this heavily.
 - **Bot accounts or artificial supporters.** Results in deranking and loss of credibility.
@@ -260,6 +260,8 @@ Questions?
 - **Bait-and-switch landing pages.** HN community values transparency; misdirection kills credibility.
 - **Focusing on ranking over conversions.** A product ranked #10 with 100 signups beats #1 with 5 signups.
 - **Not measuring pre-launch success metrics.** Define what "success" means before launch day, not after.
+- **Self-promoting the launch tweet.** Third-party discovery ("holy shit, someone just made X") outperforms founder self-promotion. A user's genuine surprise carries more credibility than a founder's announcement. VC amplification of a user tweet gave claude-peers-mcp a 30x star velocity jump — the author never wrote a launch post.
+- **Architecting your launch around needing a viral moment.** Build for the 200-500 organic floor: clean README, radical simplicity, demo-able in 3 minutes. If lightning strikes, it compounds. If not, you still have a solid niche tool. Only ~10% of projects go viral; the 22% you control (product quality, naming, README) is what lets luck compound.
 
 ## Sources
 - Lenny's Newsletter: "How to Successfully Launch on Product Hunt" (Rajiv Ayyangar, PH CEO + founder interviews)

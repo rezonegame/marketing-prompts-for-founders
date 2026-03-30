@@ -70,6 +70,8 @@ Growth follows predictable phases: establish credibility with personal network, 
    - Optimize README as landing page with visuals, GIFs, code examples
    - Add language/framework tags and social badges
    - Include contribution guidelines
+   - **README hook = tweet.** Write the first line as if it's the only tweet about your project. "Let your Claude Code instances find each other and talk" (11 words) works as tweet, README header, and elevator pitch. Compare with "Asynchronous coordination layer for AI coding agents" — accurate but forgettable.
+   - **Verifiable in 3 minutes.** If someone clicking from a tweet can understand the architecture from the README and try it in 3 minutes, they star with confidence. If they need to read docs and install dependencies, they bookmark and forget. Simplicity × emotional hook × viral distribution is the compound — any one alone yields 0-80 stars.
 
 **Anti-Pattern**: Keyword stuffing in About section reduces keyword density percentage (counterproductive)
 
@@ -108,6 +110,14 @@ Growth follows predictable phases: establish credibility with personal network, 
 - Milestone celebrations with giveaways
 
 **Timeline Benchmark**: 12 weeks to 1.5k stars documented (with consistent effort)
+
+**Realistic Star Expectations:**
+- Well-executed niche tool, no viral event: 200-500 stars in 2 weeks
+- Same tool + viral tweet + VC amplification: 1,000-1,500 stars in 3 days
+- Luck factor on viral projects: ~78% (claude-peers-mcp case study). The 22% you control — product quality, naming, README — is what lets luck compound.
+
+**Directory & Aggregator Tailwind:**
+- Being auto-listed on aggregators (PulseMCP, Glama.ai, LobeHub, etc.) is free distribution but table stakes — 13,000+ projects are listed. Standing out requires: (1) a clear one-liner, (2) solving a specific subcategory gap, and (3) a README that hooks in 10 seconds. Most listed projects have terrible READMEs and solve abstract problems — first-mover in a specific subcategory with a clean one-liner still yields outsized returns.
 
 ---
 
